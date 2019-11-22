@@ -1,2 +1,3 @@
 # VBA-challenge
-U of A Data Analytics Bootcamp Homework 2
+
+Analyzed stock transactions using Excel and VBA
